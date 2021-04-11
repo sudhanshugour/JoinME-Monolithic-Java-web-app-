@@ -48,7 +48,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<p></p>
 					</div>
 					<div class="call">
-						<h5>+91 8109049748</h5>
+						<h5>+91 81090*****</h5>
 						<p>Contact Us</p>
 					</div>
 					<div class="clearfix"></div>
@@ -114,7 +114,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="copywrite">
 		<div class="container">
 			<p>
-				© 2020 <a href="index.jsp">evento</a>
+				Â© 2020 <a href="index.jsp">evento</a>
 			</p>
 		</div>
 	</div>
